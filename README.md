@@ -2,7 +2,7 @@
 Aim Of The Project : 
  The Loan Prediction Project is a machine learning-based solution designed to predict whether a loan application will be approved or not. It analyzes key applicant details such as income, credit history, loan amount, and more. This project aims to streamline the loan approval process for banks and financial institutions, making decisions faster, more accurate, and data-driven.
 
-Faster Decision-Making: Automates the loan approval process, reducing the time taken for manual evaluations.
+Faster Decision-Making: Automates the loan approval process, reducing the time taken for manual evaluations.<br>
 Improved Accuracy: Uses data-driven predictions to minimize errors in loan approvals or rejections.
 Customer Satisfaction: Provides quicker responses to applicants, enhancing their experience.
 Risk Management: Helps identify high-risk applicants, reducing the chances of loan defaults.
